@@ -7,3 +7,5 @@
 -->Differnt fonts to use in your website
 ### :star:[Compress your CSS:](https://www.cleancss.com/css-minify/)
 -->Minifying CSS takes the beautified, well formed CSS code that you have written and removes the spacing, indentation, newlines, and comments.The purpose of minifcation is to increase the speed of a website
+### :star:[mastering CSS flexbox using game](http://flexboxfroggy.com/)
+-->In this game, you must bring the frogs home to their lilypads by mastering CSS flexbox, a powerful new module that makes layout a breeze. With it you can control alignment, spacing, and wrapping of elements on the webpage using only one or two lines of code.
